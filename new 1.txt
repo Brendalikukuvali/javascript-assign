@@ -1,0 +1,9 @@
+An Aigorithim
+
+Withdrawing Money
+ 
+Go to your account
+Select withdraw cash
+Click
+Enter amount
+Enter account pin
